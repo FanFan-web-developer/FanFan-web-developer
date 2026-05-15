@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @FanFan-web-developer
 - 👀 I’m interested in WEB and AI
-- 🌱 I’m currently learning Rust
 
 <!---
 FanFan-web-developer/FanFan-web-developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
